@@ -6,7 +6,8 @@
 2. Go to magento 1 root folder
 3. Copy/Paste module folder
 5. Clean the cache
-6. Go To admin panel : Turn on module and Run Apply Data
+6. Go To admin panel - System - Configuration : Enable module and Run Apply Data
+7. Go to Frontend - Search Data - Magic Happend
 
 ## Description
 
@@ -18,13 +19,13 @@
 
 - Posible to disable this module in configuration . Change configuration of module , it will remove search associate data .
 
-- Support multi website
+- Support multi website .
 
-##Develop
+## Develop
 
 - Kindly let me know if you have better idea to improve this module .
 
-- Thanks in advance
+- Thanks in advance .
 
 ## Report issues
 - For any issue Please help me open an issue
